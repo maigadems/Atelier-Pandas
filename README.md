@@ -26,5 +26,5 @@ atelier_pandas_iot/
 - [x] Partie 9 – Gestion des valeurs manquantes
 - [x] Partie 10 – Gestion des doublons
 - [x] Partie 11 – Statistiques descriptives
-- [ ] Partie 12 – Exportation
-- [ ] Partie 13 – Bonus
+- [x] Partie 12 – Exportation
+- [x] Partie 13 – Bonus
