@@ -17,7 +17,7 @@ atelier_pandas_iot/
 
 - [x] Partie 1 – Series
 - [x] Partie 2 – DataFrame
-- [ ] Partie 3 – Exploration
+- [x] Partie 3 – Exploration
 - [ ] Partie 4 – Sélection
 - [ ] Partie 5 – Manipulation des colonnes
 - [ ] Partie 6 – Filtrage
