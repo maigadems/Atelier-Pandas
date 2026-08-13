@@ -22,7 +22,7 @@ atelier_pandas_iot/
 - [x] Partie 5 – Manipulation des colonnes
 - [x] Partie 6 – Filtrage
 - [x] Partie 7 – Tri
-- [ ] Partie 8 – Analyse
+- [x] Partie 8 – Analyse
 - [ ] Partie 9 – Gestion des valeurs manquantes
 - [ ] Partie 10 – Gestion des doublons
 - [ ] Partie 11 – Statistiques descriptives
